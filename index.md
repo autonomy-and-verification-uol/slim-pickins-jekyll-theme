@@ -10,7 +10,7 @@ title: Home
 
 Our laboratory has moved to the University of Manchester.
 
-For more information please visit the [Autonomy and Verification Group website](https://www.cs.manchester.ac.uk/research/expertise/autonomy-and-verification/) or the [Autonomy and verification Network website](https://autonomy-and-verification.github.io/).
+For more information please visit the [Autonomy and Verification Group website](https://www.cs.manchester.ac.uk/research/expertise/autonomy-and-verification/) and the [Autonomy and verification Network website](https://autonomy-and-verification.github.io/).
 
 <br/>
 <p style="text-align: center;">
