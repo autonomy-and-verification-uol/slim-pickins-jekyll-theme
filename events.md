@@ -26,7 +26,7 @@ Upcoming Workshops, Tutorials, and other events run by [Members](/members) of th
     {% endfor %}
   </ul>
 
-<h2>Past Events</h2>
+<h2>Past Events </h2>
 <ul>
   {% assign dates = site.events | sort: date %}
   {% assign revDates = dates | reverse %}
