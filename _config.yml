@@ -4,8 +4,7 @@ email:
 author: Autonomy and Verification Laboratory
 
 keywords: autonomous systems, robotics, artificial intelligence, formal verification, sensor systems, programming, formal modelling
-description: The Autonomy and Verification Laboratory at the University of Liverpool, UK
-
+description: The Autonomy and Verification Laboratory
 # Only use this if you are serving your site via Github Pages
 #github:
 
@@ -48,8 +47,6 @@ collections:
 
 permalink: /blog/:year/:title
 
-address:
-  - line: University of Liverpool Ashton Building Ashton Street Liverpool L69 3BX United Kingdom
 
 #Google API key
 google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
@@ -57,7 +54,7 @@ google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
 #### SEO Stuff
 
 # Twitter Cards
-twitter_user: LivUni_AVLab
+twitter_user: AandVNetwork
 twitter_card: true
 twitter_image: https://autonomy-and-verification-uol.github.io/images/ashton-home.png    #enter a default image (at least 200x200px) to use here for posts/pages that don't have one.
 
