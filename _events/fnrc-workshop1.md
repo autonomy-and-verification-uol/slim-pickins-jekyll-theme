@@ -4,6 +4,9 @@ title: Future of Nuclear Robotics Safety Cases
 belogsToSeries: fnrc
 permalink: /events/fnrc/workshop1/
 date : 2018-09-11
+redirect_from:
+  - https://autonomy-and-verification.github.io/events/fnrc/workshop1/
+externalURL: https://autonomy-and-verification.github.io/events/fnrc/workshop1/
 ---
 
 ## **11th of September 2018 in Manchester**
