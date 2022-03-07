@@ -1,11 +1,10 @@
 ---
-layout: event
+layout: redirect
 title: Scoping Certifiable Autonomous Nuclear Robotics
 belogsToSeries: fnrc
 permalink: /events/fnrc/workshop2/
 date : 2019-04-12
-redirect_from:
-  - https://autonomy-and-verification.github.io/events/fnrc/workshop2/
+newUrl:  https://autonomy-and-verification.github.io/events/fnrc/workshop2/
 externalURL: https://autonomy-and-verification.github.io/events/fnrc/workshop2/
 ---
 
