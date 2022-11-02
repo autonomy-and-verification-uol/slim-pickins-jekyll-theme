@@ -1,5 +1,6 @@
 ---
 title : Trustworthy Robotic Assistants
+published: false
 ---
 
 <a href="http://www.robosafe.org/"> <img alt="Trustworthy Robotic Assistants Picture" style="float: left; margin: 1em" src="{{site.images}}project-images/robosafe.png"></a>

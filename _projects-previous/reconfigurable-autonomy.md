@@ -1,5 +1,6 @@
 ---
 title : Reconfigurable Autonomy
+published: false
 ---
 
 <a href="http://cgi.csc.liv.ac.uk/RAIS/index.php/Main_Page"> <img alt="Reconfigurable Autonomy Picture" style="float: left; margin: 1em" src="{{site.images}}project-images/rais_sq.png"></a>

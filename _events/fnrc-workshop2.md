@@ -6,6 +6,7 @@ permalink: /events/fnrc/workshop2/
 date : 2019-04-12
 newUrl:  https://autonomy-and-verification.github.io/events/fnrc/workshop2/
 externalURL: https://autonomy-and-verification.github.io/events/fnrc/workshop2/
+published: false
 ---
 
 ## **12th April 2019 in Manchester**
@@ -93,8 +94,8 @@ Some preliminary ideas that came from the discussions were:
 - clear presentations of concrete problems from industry are very useful for the supply chain.
 
 ### Workshop Report
-A follow up report, summarising the interesting discussions from the workshop, is available for download: 
-<a href="https://intranet.csc.liv.ac.uk/research/techreports/tr2020/ulcs-20-001.pdf" download="" > 
+A follow up report, summarising the interesting discussions from the workshop, is available for download:
+<a href="https://intranet.csc.liv.ac.uk/research/techreports/tr2020/ulcs-20-001.pdf" download="" >
   <button type="button"> Report </button>
 </a>.
 

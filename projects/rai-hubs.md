@@ -1,7 +1,7 @@
 ---
 layout: project
 title: "Robotics and Artificial Intelligence Hubs"
-
+published: false
 ---
 
 The Autonomy and Verification Laboratory is involved in three Robotics and Artificial Intelligence hubs. Each hub focusses on autonomous robotics in a different hazardous environment:

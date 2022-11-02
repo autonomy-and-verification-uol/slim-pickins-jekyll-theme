@@ -21,10 +21,10 @@ header_med: images/ashton-med.png
 header_large: images/ashton-large.png
 header_xl: images/ashton-xl-desat.png
 
-include: [_events]
+
 
 # Exclude our ruby stuff
-exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized]
+exclude: [.bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized. ]
 
 
 # Build settings
@@ -34,13 +34,6 @@ kramdown:
 
 destination: _site
 
-collections:
-  events:
-    output: true
-  projects:
-    output: false
-  projects-previous:
-    output: false
 # Compress our Css
 #sass:
 #    style: :compressed
@@ -48,8 +41,7 @@ collections:
 permalink: /blog/:year/:title
 
 
-#Google API key
-google_api_key: AIzaSyB1miEwJXVP4HydUImEL5ONmzvCL37_dBU
+
 
 #### SEO Stuff
 

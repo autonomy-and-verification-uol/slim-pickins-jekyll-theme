@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Events
+published: false
 ---
 
 Upcoming Workshops, Tutorials, and other events run by [Members](/members) of the Autonomy and Verification Lab.

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Videos"
+published: false
 ---
 
 This page lists all relevant videos made by members of our laboratory, such as videos of talks, demonstrations, and tutorials.

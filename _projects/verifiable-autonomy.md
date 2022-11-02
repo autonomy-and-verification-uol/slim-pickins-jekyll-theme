@@ -1,5 +1,6 @@
 ---
 title : Verifiable Autonomy
+published: false
 ---
 
 <a href="http://wordpress.csc.liv.ac.uk/va/"> <img alt="Verifiable Autonomy Logo" style="float: left; margin: 1em" src="{{site.images}}project-images/va.png"></a>

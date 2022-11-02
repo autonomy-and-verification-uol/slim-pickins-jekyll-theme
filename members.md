@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Members
+published: false
 ---
 
 <article class="row">

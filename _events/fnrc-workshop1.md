@@ -6,6 +6,7 @@ permalink: /events/fnrc/workshop1/
 date : 2018-09-11
 newUrl: https://autonomy-and-verification.github.io/events/fnrc/workshop1/
 externalURL: https://autonomy-and-verification.github.io/events/fnrc/workshop1/
+published: false
 ---
 
 ## **11th of September 2018 in Manchester**

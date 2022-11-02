@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Projects
+published: false
 ---
 
 The current research projects the the Autonomy and Verification Laboratory is involved in. Clicking the project's logo or picture will take you to the project's page or external website. This page also has information about our [Previous Projects](#previous-projects)

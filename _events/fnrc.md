@@ -2,6 +2,7 @@
 layout: event
 title: "Future of Nuclear Robotics Certification Workshop Series"
 series : true
+published: false
 ---
 
 <div class="row" >

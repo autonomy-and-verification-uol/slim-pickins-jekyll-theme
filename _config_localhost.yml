@@ -1,2 +1,4 @@
 github:
   url: "http://localhost:4000/"
+
+exclude: [_events, _projects, _projects-previous, .bundle, bin, vendor, Gemfile, Gemfile.lock, Rakefile, s3_website.yml, .last_optimized. ]
