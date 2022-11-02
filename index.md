@@ -1,16 +1,18 @@
 ---
-layout: page
+layout: closed
 title: Home
 ---
 
-<article class="row">
+<article >
 
-<section class="columns small-12 large-7" >
+  <section style ="text-align: center;  margin: 0 auto; width: 60%;" >
 <div markdown="1">
 
-Our laboratory has moved to the University of Manchester.
+This was the website for the Autonomy and Verification Lab at the University of Liverpool.
 
-For more information please visit the [Autonomy and Verification Group website](https://www.cs.manchester.ac.uk/research/expertise/autonomy-and-verification/) and the [Autonomy and verification Network website](https://autonomy-and-verification.github.io/).
+In 2020, the lab moved to the University of Manchester. For information about the successor to the Autonomy and Verification Lab, please see the [Autonomy and Verification Group website](https://www.cs.manchester.ac.uk/research/expertise/autonomy-and-verification/).
+
+To foster collaboration between previous members of the Autonomy and Verification Lab/Group, we formed a research network that links academics in the USA, Ireland, Italy, and the UK. For more information please visit [Autonomy and verification Network website](https://autonomy-and-verification.github.io/).
 
 <br/>
 <p style="text-align: center;">
@@ -19,7 +21,5 @@ For more information please visit the [Autonomy and Verification Group website](
 
 </div>
 </section>
-<section class="columns small-12 large-4" >
-<a class="twitter-timeline" data-height="800" data-theme="light" data-link-color="#2B7BB9" href="https://twitter.com/LivUni_AVLab?ref_src=twsrc%5Etfw">Tweets by LivUni_AVLab</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</section>
+
 </article>
